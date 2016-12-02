@@ -18,14 +18,23 @@
 	background-color:red;
 	border:solid black;
 }
+#nav{
+	background-color:blue;
+	border:solid black;
+}
+#nav li{
+	display:inline;
+}
 #section{
 	background-color:green;
 	border:solid black;
+	width:75%;
 }
 #aside{
 	background-color:white;
 	border:solid black;
-	float:right;
+	float:left;
+	width:23%;
 }
 #aside li{
 	display:inline;
@@ -33,4 +42,5 @@
 #footer{
 	background-color:red;
 	border:solid black;
+	clear:both;
 }
