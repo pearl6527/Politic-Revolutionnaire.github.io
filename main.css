@@ -1,0 +1,36 @@
+*{
+	margin:0 auto;
+	padding:0px;
+	display:block;
+}
+#head{
+	color:transparent;
+}
+#body{
+	text-align:center;
+}
+#enclosing_div{
+	width:90%;
+	border:solid black;
+	text-align:left;
+}
+#header{
+	background-color:red;
+	border:solid black;
+}
+#section{
+	background-color:green;
+	border:solid black;
+}
+#aside{
+	background-color:white;
+	border:solid black;
+	float:right;
+}
+#aside li{
+	display:inline;
+}
+#footer{
+	background-color:red;
+	border:solid black;
+}
