@@ -11,37 +11,39 @@
 	text-align:center;
 }
 #enclosing_div{
-	width:90%;
-	border:solid black;
-	text-align:left;
+	width:95%;
+	text-align:left; 
 }
 #header{
-	background-color:red;
-	border:solid black;
+	background-color:red;	
+	padding:2px;
 }
 #nav{
-	background-color:blue;
-	border:solid black;
+	background-color:blue;	
+	padding:1px;
 }
 #nav li{
 	display:inline;
 }
 #section{
-	background-color:green;
-	border:solid black;
-	width:75%;
+	background-color:green;	
+	float:left;
+	float-offset:2%;
+	width:73%;
+	padding:2px;
 }
 #aside{
-	background-color:white;
-	border:solid black;
+	background-color:white;	
 	float:left;
 	width:23%;
+	position:relative;
+	padding:2px;
 }
 #aside li{
-	display:inline;
+	display:block;
 }
 #footer{
 	background-color:red;
-	border:solid black;
 	clear:both;
+	padding:2px;
 }
