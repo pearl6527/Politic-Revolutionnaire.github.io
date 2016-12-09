@@ -16,11 +16,11 @@
 }
 #header{
 	background-color:red;	
-	padding:2px;
+	padding:7px;
 }
 #nav{
 	background-color:blue;	
-	padding:1px;
+	padding:5px;
 }
 #nav li{
 	display:inline;
@@ -30,7 +30,7 @@
 	float:left;
 	float-offset:2%;
 	width:73%;
-	padding:2px;
+	padding:15px;
 }
 #aside{
 	background-color:white;	
@@ -45,5 +45,5 @@
 #footer{
 	background-color:red;
 	clear:both;
-	padding:2px;
+	padding:5px;
 }
