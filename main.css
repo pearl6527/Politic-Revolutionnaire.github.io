@@ -13,19 +13,18 @@
 #enclosing_div{
 	width:95%;
 	text-align:left; 
+	background-color:green;
 }
 #header{
 	background-color:red;	
 	padding:7px;
 }
 #section{
-	background-color:green;	
 	padding:15px;
 	float:left;
 	width:80%;
 }
 #aside{
-	background-color:green;
 	padding:15px;
 }
 #footer{
