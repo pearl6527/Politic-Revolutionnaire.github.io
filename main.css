@@ -1,47 +1,35 @@
 *{
-	margin: 0px;
-	padding: 0px;
-}
-header, section, footer, aside, nav, article, hgroup{
+	margin:0 auto;
+	padding:0px;
 	display:block;
+	font-family: 'Roboto', sans-serif;
 }
-body{
+#head{
+	color:transparent;
+}
+#body{
 	text-align:center;
 }
-#leningrad{
-	border:1px solid black;
-	width:1000px;
-	margin:10px auto;
-	text-align:left;
+#enclosing_div{
+	width:95%;
+	text-align:left; 
 }
-#novgorod{
-	border:1px solid black;
-	background:red;
-	padding:10px;
+#header{
+	background-color:red;	
+	padding:7px;
 }
-#volgograd{
-	border:1px solid black;
-	padding: 5px;
+#section{
+	background-color:green;	
+	padding:15px;
+	float:left;
+	width:80%;
 }
-#volgograd li{
-	display: inline;
-	list-style: none;
+#aside{
+	background-color:green;
+	padding:15px;
+}
+#footer{
+	background-color:red;
+	clear:both;
 	padding:5px;
 }
-#st_petersburg{
-	float:left;
-	width:660px;
-	margin:30px;
-}
-#nizhy_novgorod{
-	float:left;
-	width:220px;
-	margin:30px;
-}
-#kazan{
-	clear:both;
-	text-align:center;
-	padding:20px;
-	border:1px solid black;
-}
-
