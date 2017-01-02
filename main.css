@@ -13,22 +13,38 @@
 #enclosing_div{
 	width:95%;
 	text-align:left; 
-	background-color:green;
+	background-color:white;
+	color:black;
 }
 #header{
-	background-color:red;	
+	background-color:white;
+	color:black;	
 	padding:7px;
+	border:solid blue;
+	border-width:0px 0px 0px 0px;
+	background-color:#00BFFF;
+}
+#credits{
+	background-color:#00BFFF;
+	border:solid blue;
+	border-width:0px 0px 2px 0px;
+	padding: 0px 7px 7px 7px;
 }
 #section{
 	padding:15px;
 	float:left;
-	width:80%;
+	width:97.5%;
 }
-#aside{
-	padding:15px;
+#Kidney_Dialysis_Image{
+	float:right;
+	font-size:10pt;
 }
 #footer{
-	background-color:red;
+	background-color:white;
+	color:black;
 	clear:both;
-	padding:5px;
+	padding:7px;
+	border:solid blue;
+	border-width:2px 0px 0px 0px;
+	background-color:#00BFFF;
 }
