@@ -1,0 +1,49 @@
+*{
+	margin:0 auto;
+	padding:0px;
+	display:block;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:bold;
+}
+#head{
+	color:transparent;
+}
+#body{
+	text-align:center;
+}
+#enclosing_div{
+	width:95%;
+	text-align:left;
+}
+#header{
+	color:gold;
+	text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	padding:7px;
+	border:solid rgb(75,0,130);
+	border-width:0px 0px 0px 0px;
+	background-color:rgb(75,0,130);
+}
+#section{
+	padding:7px;
+	color:rgb(75,0,130);
+	background-color:rgb(102,2,60);
+}
+#Kidney_Dialysis_Image{
+	float:right;
+	font-size:10pt;
+}
+#Kidney_Dialysis_GIF{
+	float:left;
+	font-size:10pt;
+}
+#footer{
+	color:gold;
+	clear:both;
+	padding:7px;
+	border:solid rgb(75,0,130);
+	border-width:2px 0px 0px 0px;
+	background-color:rgb(75,0,130);
+}
+h3{
+	color:black;
+}
